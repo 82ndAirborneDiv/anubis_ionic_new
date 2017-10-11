@@ -82,7 +82,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		fRjxoySvKU1sHlTgQobJ+IT1HwA=
+		Ld3NIIjGFc6cTBQmoRQczHG9zRI=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -258,7 +258,7 @@
 		</data>
 		<key>www/css/custom.css</key>
 		<data>
-		12RmttRwL1vwUCFwn3fKzOEbHi0=
+		MtIvwx6m0DzZ5QY/qPK0zK4PcdA=
 		</data>
 		<key>www/css/style.css</key>
 		<data>
@@ -770,7 +770,7 @@
 		</data>
 		<key>www/templates/menu.html</key>
 		<data>
-		d9GAcYz+67xAeAgGbDzgxS5S7gc=
+		6iCfIWpgaYlaCkY/s6AJsf5QNzo=
 		</data>
 		<key>www/templates/playlist.html</key>
 		<data>
@@ -1148,11 +1148,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fRjxoySvKU1sHlTgQobJ+IT1HwA=
+			Ld3NIIjGFc6cTBQmoRQczHG9zRI=
 			</data>
 			<key>hash2</key>
 			<data>
-			TT8/XhrAu/70bAubK6Fsw86PPCHmtAV81CUAiXJ7pK0=
+			d0eEidg5qEDCNGQxxY3l7PD+dize1WdbzVzoVEXn52Y=
 			</data>
 		</dict>
 		<key>LaunchImage-568h@2x.png</key>
@@ -1610,11 +1610,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			12RmttRwL1vwUCFwn3fKzOEbHi0=
+			MtIvwx6m0DzZ5QY/qPK0zK4PcdA=
 			</data>
 			<key>hash2</key>
 			<data>
-			lbkUOoA6ey0AAQ2/NVJ/wgYFxdP0Lpqmgqlnk0pjcVg=
+			M3kroJzfzOlVheIpMZG1+8+2zu1RuGMPCcuZjflrdYU=
 			</data>
 		</dict>
 		<key>www/css/style.css</key>
@@ -3018,11 +3018,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			d9GAcYz+67xAeAgGbDzgxS5S7gc=
+			6iCfIWpgaYlaCkY/s6AJsf5QNzo=
 			</data>
 			<key>hash2</key>
 			<data>
-			G6Fjx6reOg03WRDUvHh/qc7/jv80ruNbs/mbLkjaxlI=
+			fv6a0ph7chR7oNmEJxTfoS6lWAf3vEVdnm0653YpDcs=
 			</data>
 		</dict>
 		<key>www/templates/playlist.html</key>
