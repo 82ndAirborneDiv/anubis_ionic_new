@@ -38,7 +38,7 @@
                       <i class="icon " ng-class="isGroupShown(group) ? 'ion-ios-arrow-down' : 'ion-ios-arrow-right'" ng-show="group.items.length > 0"></i>
                 </div>
               </ion-item>
-              <ion-item class="item-accordion item-text-wrap"  ng-repeat="item in group.items" ng-show="isGroupShown(group)" menu-close ui-sref="app.sidemenu({menuItemUrl:item.url})"
+              <ion-item class="item-accordion item-text-wrap" style="padding-right:0px; !important; "  ng-repeat="item in group.items" ng-show="isGroupShown(group)" menu-close ui-sref="app.sidemenu({menuItemUrl:item.url})"
               ui-sref-active="active">
                  &nbsp;&nbsp;{{item.item_name}}
               </ion-item>
