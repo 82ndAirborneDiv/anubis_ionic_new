@@ -77,7 +77,7 @@ angular.module('starter.controllers', ['ui.router'])
             {item_name  : 'Autopsy', url :"anubis-autopsy.html" },
             {item_name  : 'Tobacco Use', url :"anubis-tobacco.html" },
             {item_name  : 'Pregancy', url :"anubis-pregnancy.html" },
-            {item_name  : 'Manner of Death', url :"anubis-mannerofdeath.html" },
+            {item_name  : 'Manner of Death', url :"anubis-mannerofdeath.html" }
           ],
           show: false
     },
@@ -110,7 +110,7 @@ angular.module('starter.controllers', ['ui.router'])
           url   : 'anubis-additionalresources.html',
           show: false
         }
-   ]
+   ];
   $scope.etiologyGroups = [
     {
       "name": "Blood, Renal, Immune",
@@ -250,7 +250,7 @@ angular.module('starter.controllers', ['ui.router'])
   ];
    $scope.showAboutUs = function() {
       $state.go('app.aboutus');
-   }
+   };
   $scope.toggleGroup = function(group) {
 
     if (group.items.length == 0) {
@@ -290,7 +290,7 @@ $scope.showModal = function(templateUrl) {
     $scope.modal = modal;
     $scope.modal.show();
   });
-}
+};
   $scope.openModal = function() {
       $scope.modal.show();
     };
