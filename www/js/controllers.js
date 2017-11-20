@@ -67,12 +67,12 @@ angular.module('starter.controllers', ['ui.router'])
                   {item_name  : 'Advanced Age', url :"anubis-problems-advancedage.html" },
                   {item_name  : 'Infants', url :"anubis-problems-infants.html" },
                   {item_name  : 'Specificity', url :"anubis-problems-specificity.html" },
-                  {item_name:'Possible Injuries or Poisoning', url:"anubis-problems-unnaturalcauses.html"}
+                  {item_name:'Possible Injuries or Poisonings', url:"anubis-problems-unnaturalcauses.html"}
 
           ],
           show: false
         },
-        { name  : 'Other Parts of Certification',
+        { name  : 'Other Parts of the Certification',
           items : [
             {item_name  : 'Autopsy', url :"anubis-autopsy.html" },
             {item_name  : 'Tobacco Use', url :"anubis-tobacco.html" },
@@ -386,7 +386,7 @@ $ionicPopover.fromTemplateUrl('templates/popover-menu.html', {
   };
 
   $scope.showExamples = function(){
-    $scope.toggleGroup($scope.groups[5]);
+    $scope.toggleGroup($scope.groups[8]);
   };
 
   $scope.$on('$stateChangeStart', function(event, toState, toParams, fromState, fromParams) {
